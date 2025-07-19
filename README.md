@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kblllll&left_color=gray&right_color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kblllll&left_color=gray&right_color=red)
 
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kblllll)
