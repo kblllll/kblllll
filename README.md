@@ -1,14 +1,15 @@
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kblllll/kblllll&left_color=green&right_color=red)
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=kblllll&color=green" alt="Profile views" />
+</div>
 
-## Hi there 👋
-<div align="center"> <img src="https://metrics.lecoq.io/insights/kblllll"> </div>
+### MAN！
 
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=kblllll)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kblllll)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kblllll)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kblllll)
-
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=kblllll&bg_color=0D1117&color=FFFFFF&line=00FFFF&point=FFFFFF&area_color=FFFFFF33)
 <!--
 **kblllll/kblllll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
