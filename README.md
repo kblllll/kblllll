@@ -1,6 +1,10 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kblllll&left_color=gray&right_color=red)
+
+![visitors](https://visitor-badge.glitch.me/badge?username=kblllll/kblllll&left_color=green&right_color=red)
 
 ## Hi there 👋
+<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kblllll)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kblllll)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kblllll)
